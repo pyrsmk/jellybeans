@@ -3,6 +3,8 @@ jellybeans 0.1.0
 
 Jellybeans is a simple tool that aims to emphasize all nodes by setting them a random background color. It's really useful when you're setting your vertical rhythm accross your page.
 
+It fits really well with [vertical-rhythmic](https://github.com/pyrsmk/vertical-rhythmic).
+
 Install
 -------
 
