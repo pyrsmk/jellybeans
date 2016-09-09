@@ -5,6 +5,8 @@ Jellybeans is a simple tool that aims to emphasize all nodes by setting them a r
 
 It fits really well with [vertical-rhythmic](https://github.com/pyrsmk/vertical-rhythmic).
 
+![jellybeans demonstration](https://github.com/pyrsmk/jellybeans/raw/master/jellybeans.jpg)
+
 Install
 -------
 
