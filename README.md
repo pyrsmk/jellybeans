@@ -1,4 +1,4 @@
-jellybeans 0.1.0
+jellybeans 0.2.0
 ================
 
 Jellybeans is a simple tool that aims to emphasize all nodes by setting them a random background color. It's really useful when you're setting your vertical rhythm accross your page.
@@ -18,7 +18,9 @@ npm install pyrsmk/jellybeans
 Use
 ---
 
-Include it on your page and it will run by itself.
+```
+jellybeans();
+```
 
 Based on
 --------
